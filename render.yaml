@@ -2,7 +2,7 @@
 
 services:
   - type: web  # web service type
-    name: shoppers-ml-api  # service name on render
+    name: shopping-classification  # service name on render
     env: docker  # use docker for deployment
     dockerfilePath: ./Dockerfile  # path to dockerfile
     plan: free  # render free tier
