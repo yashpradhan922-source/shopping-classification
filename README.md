@@ -83,8 +83,8 @@ MySQL (source) → ETL → PostgreSQL (warehouse) → ML Training → Model → 
 ### Steps
 ```bash
 # clone repository
-git clone https://github.com/Amitmakode/ml-classification-project.git
-cd ml-classification-project
+git clone https://github.com/yashpradhan922-source/shopping-classification/.git
+cd shopping-classification
 
 # create virtual environment
 python -m venv venv
